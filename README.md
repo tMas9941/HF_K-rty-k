@@ -1,2 +1,2 @@
-# HF_K-rty-k
+# HF_Kartyak
 2024.04.20. Házi feladat
